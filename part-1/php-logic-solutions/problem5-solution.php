@@ -8,6 +8,5 @@ function circleArea ($radius){
 $radius = readline('Enter value of radius: ');
 echo "the area of a circle of radius $radius  is = " . 3.14 * $radius * $radius;
 
-
 ?>
 
